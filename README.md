@@ -1,16 +1,12 @@
 # r05moviefullapi
 
-A new Flutter project.
+A Flutter Project 'Movie App' made using TMDB api. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You will need developer account of the tmdb which will provide you an API key.
+Then we will be able to fetch the realtime json of movies of selected category like
+trending weekly
+popular now
+top rated etc
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
