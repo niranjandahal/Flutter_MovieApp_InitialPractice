@@ -1,15 +1,14 @@
 # r05moviefullapi
 
-A Flutter Project 'Movie App' made using TMDB api. 
+A Flutter Project 'Movie App' made using TMDB API.
 
 ## Getting Started
 
-You will need developer account of the tmdb which will provide you an API key.
-Then we will be able to fetch the realtime json of movies of selected category like
-trending weekly
-popular now
-top rated etc
+You will need a developer account with TMDB, which will provide you an API key. With the API key, we will be able to fetch real-time JSON data of movies from selected categories like:
 
+- Trending weekly
+- Popular now
+- Top-rated, etc.
 
 # Movie App
 
@@ -27,7 +26,7 @@ A Flutter application that displays trending movies, popular movies, top-rated m
 ## Features
 
 - Browse trending movies, popular movies, and top-rated movies.
-- View detailed movie descriptions including synopsis, cast, and crew.
+- View detailed movie descriptions, including synopsis, cast, and crew.
 - Get recommendations for similar movies based on the selected movie.
 - Search for movies, actors, and directors.
 - View search results and detailed information about movies and people.
@@ -51,41 +50,17 @@ A Flutter application that displays trending movies, popular movies, top-rated m
    ```bash
    git clone https://github.com/your-username/movie-app.git
 
-
 2.Navigate to the project directory:
 
    ```bash
-   cd movie-app
+   git clone https://github.com/your-username/movie-app.git
 
-
-Install dependencies:
-
-   ```bash
-   flutter pub get
-
-   
-Run the app:
+3.Install dependencies:
 
    ```bash
-   flutter run
+   git clone https://github.com/your-username/movie-app.git
 
-   
-Contributing
+4.Run the app
 
-Contributions are welcome! If you find any bugs or want to contribute new features, please follow these steps:
-
-Fork the repository.
-Create a new branch for your feature/bug fix.
-Make your changes and test thoroughly.
-Commit your changes with a descriptive commit message.
-Push your branch to your forked repository.
-Submit a pull request.
-Please make sure to follow our Code of Conduct and adhere to the Contributing Guidelines.
-
-Issues
-If you encounter any issues or bugs with the application, please create a new issue on GitHub. Include a detailed description and steps to reproduce the problem.
-
-
-vbnet
-Feel free to customize this README file to fit the specific details 
-
+   ```bash
+   git clone https://github.com/your-username/movie-app.git
