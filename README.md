@@ -52,15 +52,15 @@ A Flutter application that displays trending movies, popular movies, top-rated m
 
 2.Navigate to the project directory:
 
-    ```bash
+    
     cd movie-app
 
 3.Install dependencies:
 
-     ```bash
+
    flutter pub get
 
 4.Run the app
 
-   ```bash
-   git clone https://github.com/your-username/movie-app.git
+
+     flutter run
