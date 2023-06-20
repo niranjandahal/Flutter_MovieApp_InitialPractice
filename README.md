@@ -16,7 +16,6 @@ top rated etc
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-90%25-green)
 ![Version](https://img.shields.io/badge/version-v1.0-blue)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 A Flutter application that displays trending movies, popular movies, top-rated movies, and provides movie descriptions, recommendations, and search functionality.
 
@@ -55,20 +54,18 @@ A Flutter application that displays trending movies, popular movies, top-rated m
 
 Navigate to the project directory:
 
-bash
-Copy code
+```bash
 cd movie-app
 Install dependencies:
 
-bash
-Copy code
+```bash
 flutter pub get
 Run the app:
 
-bash
-Copy code
+```bash
 flutter run
 Contributing
+```bash
 Contributions are welcome! If you find any bugs or want to contribute new features, please follow these steps:
 
 Fork the repository.
@@ -82,11 +79,8 @@ Please make sure to follow our Code of Conduct and adhere to the Contributing Gu
 Issues
 If you encounter any issues or bugs with the application, please create a new issue on GitHub. Include a detailed description and steps to reproduce the problem.
 
-License
-This project is licensed under the MIT License.
 
 vbnet
-Copy code
-
+```bash
 Feel free to customize this README file to fit the specific details of your mo
 
