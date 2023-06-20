@@ -58,7 +58,7 @@ A Flutter application that displays trending movies, popular movies, top-rated m
 3.Install dependencies:
 
    
-         flutter pub get
+      flutter pub get
 
 4.Run the app
 
@@ -81,7 +81,5 @@ Issues
 If you encounter any issues or bugs with the application, please create a new issue on GitHub. Include a detailed description and steps to reproduce the problem.
 
 Feel free to customize this README file to fit the specific details of your project.
-
-csharp
 
 With this formatting, the code blocks should be displayed properly on GitHub.
