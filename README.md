@@ -54,18 +54,18 @@ A Flutter application that displays trending movies, popular movies, top-rated m
 
 Navigate to the project directory:
 
-```bash
-cd movie-app
+   ```bash
+   cd movie-app
 Install dependencies:
 
-```bash
-flutter pub get
+   ```bash
+   flutter pub get
 Run the app:
 
-```bash
-flutter run
+   ```bash
+   flutter run
 Contributing
-```bash
+
 Contributions are welcome! If you find any bugs or want to contribute new features, please follow these steps:
 
 Fork the repository.
@@ -81,6 +81,5 @@ If you encounter any issues or bugs with the application, please create a new is
 
 
 vbnet
-```bash
-Feel free to customize this README file to fit the specific details of your mo
+Feel free to customize this README file to fit the specific details 
 
