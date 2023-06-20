@@ -57,8 +57,8 @@ A Flutter application that displays trending movies, popular movies, top-rated m
 
 3.Install dependencies:
 
-
-   flutter pub get
+   
+flutter pub get
 
 4.Run the app
 
