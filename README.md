@@ -21,7 +21,11 @@ A Flutter application that displays trending movies, popular movies, top-rated m
 ## Screenshots
 
 ![Screenshot 1](https://github.com/niranjandahal/Flutter_Moive_fullapp/blob/main/flutter_01.png)
-![Screenshot 2]()
+![Screenshot 2](https://github.com/niranjandahal/Flutter_Moive_fullapp/blob/main/flutter_05.png)
+![Screenshot 3](https://github.com/niranjandahal/Flutter_Moive_fullapp/blob/main/flutter_06.png)
+![Screenshot 4](https://github.com/niranjandahal/Flutter_Moive_fullapp/blob/main/flutter_08.png)
+![Screenshot 5](https://github.com/niranjandahal/Flutter_Moive_fullapp/blob/main/flutter_10.png)
+
 
 ## Features
 
