@@ -8,7 +8,7 @@ import 'package:flutter/services.dart';
 
 void main() {
   runApp(const movieapp());
-  SystemChrome.setEnabledSystemUIOverlays([SystemUiOverlay.bottom]);
+  SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: [SystemUiOverlay.bottom]);
 }
 
 //fist the HomeUi is called

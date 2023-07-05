@@ -650,6 +650,7 @@ class _SearchScreenState extends State<SearchScreen> {
                                       Text(
                                         release_date[index],
                                         style: const TextStyle(
+                                            color: Colors.white,
                                             fontSize: 18,
                                             fontWeight: FontWeight.bold),
                                       ),
@@ -682,17 +683,17 @@ class _SearchScreenState extends State<SearchScreen> {
                     );
                   });
             } else {
-           return Center(
-            child: SizedBox(
-              height: 80,
-              width: 80,
-              child: CircularProgressIndicator(
-                color: Colors.white,
-                backgroundColor: Colors.blue,
-                strokeWidth: 5,
-              ),
-            ),
-          );
+              return Center(
+                child: SizedBox(
+                  height: 80,
+                  width: 80,
+                  child: CircularProgressIndicator(
+                    color: Colors.white,
+                    backgroundColor: Colors.blue,
+                    strokeWidth: 5,
+                  ),
+                ),
+              );
             }
           }),
     );
