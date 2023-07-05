@@ -48,7 +48,7 @@ A Flutter application that displays trending movies, popular movies, top-rated m
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-app.git
+   git clone https://github.com/niranjandahal/Flutter_Moive_fullapp.git
 
 2.Navigate to the project directory:
 
